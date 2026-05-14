@@ -3,9 +3,6 @@
 http://194.5.152.248:8000/dono 
 #EXTINF:-1 group-title="O'zbekiston Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/43391.v2.png",A'lo FM
 http://tabassum.uz:9000/alo_low
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId",Al Quran Al Kareem Mecca
-#EXTGRP:Islam
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:0 CUID="1" number="2" tvg-id="epg1:Первый канал" tvg-name="epg1:Первый канал" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Первый канал1.png" group-title="Информационные",Первый канал
 http://ost.ru-tv.site/bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vMTk1LjIxMS4yNy4xNTA6ODA4MC84MDAxL3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIxMDhlMDIwOSIsInAiOiIxMDhlMDIwOThlMDY0MjBiIiwiYyI6IjEiLCJ0IjoiYTk2OTAwNTMxZDU4NWVhNTZjOTdjZWIwZGNmOTYwMjUiLCJkIjoiNDg1NTc3IiwiciI6IjQ5NzUzNyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwLzgwMDEvdmlkZW8ubTN1OD90b2tlbj1/video.m3u8
 #EXTINF:0 CUID="116" number="3" tvg-id="epg1:Первый канал Европа" tvg-name="epg1:Первый канал Европа" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Первый канал Европа1.png" group-title="Информационные",Первый канала Европа
