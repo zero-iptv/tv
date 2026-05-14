@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.ru-tv.site/14.xml" x-tvg-url="http://epg.ru-tv.site/14-light.xml"
 #EXTINF:-1 group-title="O'zbekiston Radio" tvg-logo="https://marketing.uz/uploads/articles/5164/article-original.jpg",Oriat dono
-http://194.5.152.248:8000/dono
+http://194.5.152.248:8000/dono 
 #EXTINF:-1 group-title="O'zbekiston Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/43391.v2.png",A'lo FM
 http://tabassum.uz:9000/alo_low
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId",Al Quran Al Kareem Mecca
